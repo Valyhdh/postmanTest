@@ -1,10 +1,17 @@
 # postmanTest
 
 Регестрация
-![image](https://github.com/user-attachments/assets/cdf6403a-7f23-4ae8-9ec0-efeb924a3dd6)
+![image](https://github.com/user-attachments/assets/67f7d990-8b7c-4b2b-a470-adb3dd8971d8)
+
+
+
+
 авторизация
-![image](https://github.com/user-attachments/assets/3b81959d-14c8-4604-972f-b40973e34ff3)
+![image](https://github.com/user-attachments/assets/a5d907ef-5ce8-456d-aad4-c4a6b324e8fd)
+
+
+
 получение пользователя
-![image](https://github.com/user-attachments/assets/ebdb0eba-1c9c-4208-b785-f19f3a67d9f3)
+![image](https://github.com/user-attachments/assets/015e5237-ccea-422c-a411-881f5e12cf64)
 
 
